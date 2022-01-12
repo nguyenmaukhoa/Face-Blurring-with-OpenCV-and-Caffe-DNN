@@ -7,3 +7,7 @@ In today's world, cameras and videos are everywhere and privacy has become a big
 ## Using Caffe Deep Neural Network within OpenCV Documentation
 https://docs.opencv.org/4.5.2/d6/d0f/group__dnn.html#ga29d0ea5e52b1d1a6c2681e3f7d68473a
 
+## Face-blurred sample Image
+![alt text](https://img-cdn.tnwcdn.com/image?fit=1280%2C720&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2020%2F06%2Fimage-scrubber-feat.jpg&signature=eb845999a781333ad70c66cbcb0db6a7)
+
+(Image Credit: https://thenextweb.com/news/how-to-blur-faces-and-remove-metadata-from-your-photos)
